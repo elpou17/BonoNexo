@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Contador de Beneficios — Banreservas Style
 
 Aplicación web estática para proyectar beneficios laborales y mostrar cuentas regresivas hacia enero y diciembre.
@@ -55,3 +56,7 @@ git push -u origin main
 ## Aviso
 
 Este proyecto es una herramienta personal de estimación y no es una aplicación oficial ni afiliada a Banreservas.
+=======
+# BonoNexo
+Contador para Bonos
+>>>>>>> a837d21d6f6d7a7413cef3bb171fa77b24136a19
