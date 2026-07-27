@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# Contador de Beneficios — Banreservas Style
+# Contador de Beneficios — BonoNexo Style
 
 Aplicación web estática para proyectar beneficios laborales y mostrar cuentas regresivas hacia enero y diciembre.
 
